@@ -1,0 +1,13 @@
+C:\Users\levchenko\source\repos\Server_Test\Server_Test\bin\Debug\netcoreapp3.1\Server_Test.exe
+C:\Users\levchenko\source\repos\Server_Test\Server_Test\bin\Debug\netcoreapp3.1\Server_Test.deps.json
+C:\Users\levchenko\source\repos\Server_Test\Server_Test\bin\Debug\netcoreapp3.1\Server_Test.runtimeconfig.json
+C:\Users\levchenko\source\repos\Server_Test\Server_Test\bin\Debug\netcoreapp3.1\Server_Test.runtimeconfig.dev.json
+C:\Users\levchenko\source\repos\Server_Test\Server_Test\bin\Debug\netcoreapp3.1\Server_Test.dll
+C:\Users\levchenko\source\repos\Server_Test\Server_Test\bin\Debug\netcoreapp3.1\Server_Test.pdb
+C:\Users\levchenko\source\repos\Server_Test\Server_Test\obj\Debug\netcoreapp3.1\Server_Test.csprojAssemblyReference.cache
+C:\Users\levchenko\source\repos\Server_Test\Server_Test\obj\Debug\netcoreapp3.1\Server_Test.AssemblyInfoInputs.cache
+C:\Users\levchenko\source\repos\Server_Test\Server_Test\obj\Debug\netcoreapp3.1\Server_Test.AssemblyInfo.cs
+C:\Users\levchenko\source\repos\Server_Test\Server_Test\obj\Debug\netcoreapp3.1\Server_Test.csproj.CoreCompileInputs.cache
+C:\Users\levchenko\source\repos\Server_Test\Server_Test\obj\Debug\netcoreapp3.1\Server_Test.dll
+C:\Users\levchenko\source\repos\Server_Test\Server_Test\obj\Debug\netcoreapp3.1\Server_Test.pdb
+C:\Users\levchenko\source\repos\Server_Test\Server_Test\obj\Debug\netcoreapp3.1\Server_Test.genruntimeconfig.cache
